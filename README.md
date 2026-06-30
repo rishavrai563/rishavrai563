@@ -34,7 +34,7 @@ I build scalable software — from **C++ system tools** to **full-stack machine 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<br>
+
 
 <!-- AI, Machine Learning & Data -->
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -43,7 +43,7 @@ I build scalable software — from **C++ system tools** to **full-stack machine 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-<br>
+
 
 <!-- Software, Web & Deployment -->
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -51,7 +51,7 @@ I build scalable software — from **C++ system tools** to **full-stack machine 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br>
+
 
 <!-- Hardware & Systems -->
 ![RISC-V](https://img.shields.io/badge/RISC--V_Assembly-222222?style=for-the-badge&logo=riscv&logoColor=white)
