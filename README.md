@@ -34,17 +34,22 @@ I build scalable software — from **C++ system tools** to **full-stack machine 
 ### 🚀 Projects
 
 <!-- REPOS:START -->
-- **[Trade-AI](https://github.com/rishavrai563/Trade-AI)** `Python`<br/>No description provided.
-- **[Operational-Risk-Mitigation](https://github.com/rishavrai563/Operational-Risk-Mitigation)** `Jupyter Notebook`<br/>Institutional-grade ML pipeline for operational risk and credit card fraud detection (OCC 2011-12 / SR 11-7 compliant)
-- **[Context-Gated-FinLLM-Dynamic-Attention-Routing-Engine](https://github.com/rishavrai563/Context-Gated-FinLLM-Dynamic-Attention-Routing-Engine)** `Jupyter Notebook`<br/>A context-gated financial sentiment engine utilizing QLoRA to eliminate semantic domain inversion across macro and equity markets.
-- **[PlantScope](https://github.com/rishavrai563/PlantScope)** `Jupyter Notebook`<br/>No description provided.
-- **[Impression-Path-Ranking](https://github.com/rishavrai563/Impression-Path-Ranking)** `Python`<br/>No description provided.
-- **[Bayesian-Optimizer-For-WiFI-RRM-Architecture](https://github.com/rishavrai563/Bayesian-Optimizer-For-WiFI-RRM-Architecture)** `Python`<br/>No description provided.
-- **[RiscV-Assembler](https://github.com/rishavrai563/RiscV-Assembler)** `HTML`<br/>No description provided.
-- **[smart-parking-system](https://github.com/rishavrai563/smart-parking-system)**<br/>No description provided.
-<!-- REPOS:END -->
+- **[Context-Gated FinLLM Dynamic Attention Routing Engine](https://github.com/rishavrai563/Context-Gated-FinLLM-Dynamic-Attention-Routing-Engine)** `Finance, Machine Learning, NLP`<br/>Engineered a robust financial sentiment classification system by fine-tuning Meta-Llama-3-8B-Instruct using 4-bit QLoRA on a hybrid dataset of formal financial reports and noisy market social media. After evaluating multiple architectures including FinBERT and Bi-LSTM, implemented a highly efficient two-stage inference pipeline utilizing regex-based routing with LLM fallback for complex queries. Also, designed a dynamic, context-aware routing mechanism that significantly reduced cross-sector misclassifications by explicitly conditioning the model on domain-specific financial context prior to inference.
 
----
+- **[Trade-AI](https://github.com/rishavrai563/Trade-AI)** `Algorithmic Trading, Machine Learning`<br/>Built a quantitative trading engine utilizing an XGBoost, LightGBM, and Ridge ensemble to predict volatility-adjusted returns based on 60+ multi-timeframe alpha factors. Validated via strict walk-forward cross-validation and integrated a production-grade risk framework featuring ATR-based stop-losses, fractional Kelly position sizing, and full performance backtesting (Sharpe, Sortino, Drawdown).
+
+- **[Operational Risk Mitigation](https://github.com/rishavrai563/Operational-Risk-Mitigation)** `Quantitative Risk Analytics`<br/>Engineered an XGBoost driven machine learning pipeline for operational risk mitigation that optimizes for institutional financial risk rather than standard statistical accuracy. By implementing a 10:1 financial cost matrix, the model programmatically sweeps decision boundaries to minimize operational friction and undetected fraud, successfully yielding a 58.1% reduction in total capital loss and eliminating 368 false alarms. Furthermore, the system integrates SHAP based model governance to ensure strict regulatory compliance, providing audit ready, per transaction explainability narratives for risk management committees.
+
+- **[Vision Language Navigation System]([https://github.com/rishavrai563/Vision-Language-Navigation](https://github.com/h4444n55555/AI211-Habitat-Lab-Project))** `Machine Learning, Computer Vision, Simulation`<br/>Built an end-to-end Vision-Language Navigation (VLN) system in Habitat Simulator using a multimodal architecture that fuses CLIP dual-encoders via transformer cross-attention. Engineered a lightweight fusion mechanism that reduced trainable parameters by 71.7% for edge robotics without sacrificing accuracy. Demonstrated strong zero-shot generalization in unseen environments and developed a real-time OpenCV GUI for interactive agent evaluation.
+
+- **[Plant Disease Detection System Using CNN (PlantScope)](https://github.com/rishavrai563/PlantScope)** `Machine Learning, Computer Vision`<br/>Developed a full-stack AI platform for plant disease diagnostics using a custom PyTorch CNN to classify 39 disease states. Architected a high-performance microservices pipeline featuring a React frontend and a FastAPI backend for sub-second inference. Containerized the entire application using Docker and Kubernetes, enabling a scalable, cost-efficient cloud deployment across Vercel and Hugging Face.
+
+- **[WiFi Resource Management Architecture](https://github.com/rishavrai563/Bayesian-Optimizer-For-WiFI-RRM-Architecture)** `Reinforcement Learning, Graph Algorithms, Networks`<br/>Architected a multi-timescale WiFi resource management framework in Python to optimize joint long-term planning and real-time adaptation within dense, interference-prone networks. To systematically minimize co-channel interference, formulated the channel allocation challenge as a graph coloring problem and implemented a Degree of Saturation (DSATUR) assignment algorithm. Additionally, integrated Bayesian Optimization for global parameter tuning alongside calibrated Q-learning, enabling safe and highly responsive online policy adaptation under dynamic, fluctuating traffic conditions.
+
+- **[RISC-V 64-bit Assembler](https://github.com/rishavrai563/RiscV-Assembler)** `RISC-V, Computer Architecture`<br/>Built a modular two-pass RISC-V (RV64I) assembler in C++ that translates raw assembly into machine-code binaries using a custom lexer, parser, and symbol table. Integrated this high-performance compiler backend with a Flask web application to deliver an interactive, real-time GUI for code assembly, error diagnostics, and executable downloads.
+
+- **[Impression Path Rankings](https://github.com/rishavrai563/Impression-Path-Ranking)** `Data Structures and Algorithm`<br/>Built a graph analytics model using Python and NetworkX to model relational datasets as directed graphs, focusing on node influence ranking and predictive link analysis. Designed a stochastic random walk simulation to quantify entity influence by calculating steady state visitation frequencies across the network.
+<!-- REPOS:END -->
 
 ### 📊 GitHub Analytics
 
