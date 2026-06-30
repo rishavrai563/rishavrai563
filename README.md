@@ -85,6 +85,3 @@ I build scalable software — from **C++ system tools** to **full-stack machine 
 
 ---
 
-<div align="center">
-  <b>⚡ "Engineering is applied science; quantitative finance is applied engineering." ⚡</b>
-</div>
