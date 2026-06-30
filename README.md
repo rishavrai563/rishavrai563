@@ -6,7 +6,7 @@
 <p>
 <a href="https://github.com/rishavrai563"><img src="https://img.shields.io/github/followers/rishavrai563?label=Followers&style=social" alt="GitHub Followers"></a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=rishavrai563&color=0e75b6&style=flat-square&label=Profile+Views" alt="Profile Views" />&nbsp;
-<a href="https://buymeacoffee.com/rishavrai563"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee"></a>
+
 </p>
 
 </div>
