@@ -12,9 +12,7 @@
 * [Operational-Risk-Mitigation: Institutional-grade ML pipeline for risk detection](https://github.com/rishavrai563/Operational-Risk-Mitigation)
 * [Bayesian-Optimizer-For-WiFi-RRM-Architecture: Optimizing complex parameters for pilot site reporting](https://github.com/rishavrai563/Bayesian-Optimizer-For-WiFi-RRM-Architecture)
 
-If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FF813F?style=flat-square&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/)
 
 ### My GitHub contributions summary
 
@@ -22,4 +20,3 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/
 
 <br/>
 
-[![Rishav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishavrai563&show_icons=true&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
