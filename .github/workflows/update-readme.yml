@@ -1,0 +1,42 @@
+# ╔══════════════════════════════════════════════════════════════════════════════╗
+# ║  Update README — Dynamic Repository List                                   ║
+# ║  Runs daily at midnight UTC and on manual trigger.                          ║
+# ╚══════════════════════════════════════════════════════════════════════════════╝
+
+name: Update README with Latest Repos
+
+on:
+  schedule:
+    # Every day at midnight UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      # ── 1. Checkout the repository ──────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ── 2. Set up Python ───────────────────────────────────────────────────
+      - name: Set up Python 3
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      # ── 3. Run the update script ───────────────────────────────────────────
+      - name: Update README.md
+        run: python update_repos.py
+
+      # ── 4. Commit and push changes ────────────────────────────────────────
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || (git commit -m "docs: auto-update repository list [skip ci]" && git push)
