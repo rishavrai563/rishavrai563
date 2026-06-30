@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Dynamic Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Rishav;AI+%26+Data+Engineering+%7C+IIT+Ropar)](https://git.io/typing-svg)
+# 👋 Hey, I'm Rishav
+**AI & Data Engineering | IIT Ropar**
 
 <p>
 <a href="https://github.com/rishavrai563"><img src="https://img.shields.io/github/followers/rishavrai563?label=Followers&style=social" alt="GitHub Followers"></a>&nbsp;
@@ -65,10 +65,10 @@ I build scalable software — from **C++ system tools** to **full-stack machine 
 <div align="center">
 
 <a href="https://github.com/rishavrai563">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishavrai563&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rishavrai563&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/rishavrai563">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavrai563&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rishavrai563&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 </a>
 
 <br/>
@@ -80,7 +80,7 @@ I build scalable software — from **C++ system tools** to **full-stack machine 
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishavrai563&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6E40" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishavrai563&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6E40" alt="Contribution Graph" width="100%"/>
 </div>
 
 ---
